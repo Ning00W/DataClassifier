@@ -1,0 +1,11 @@
+Classifying Real Artworks
+
+
+This is a data to classify the genuine art works in the game Animal Crossing. 
+ 
+Based on the rule of people can only sell the real art work to gallery to earn money, it won't be sold to anywhere if bought a fake one from businessman accidently. 
+We can see there's Unique ID numbers and File names for each art work including Fake ones.  
+
+So, people can use the system of classification to identify if the art work is real or not in case choose the wrong one.
+
+I am making this system is because as an example of Animal Crossing, the NFT market appears in game very often nowadays, economically it is very useful to have this classifier to pick the real worthful artwork. 

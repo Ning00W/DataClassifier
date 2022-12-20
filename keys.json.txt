@@ -1,0 +1,7 @@
+{
+    "api_key": "sZ4zoUv33aYKr59jB7P7x2w0Q",
+    "api_secret": "yZXJ4WBVSzkbPyjkNqAPd46LqtYhsSfZaRlO0HhnjSINBbVMg2",
+    "bearer_token": "AAAAAAAAAAAAAAAAAAAAABBKjgEAAAAAaTbj65SAMn%2BfMalmAzUd2ViX%2FgU%3DnmBonWynC8Y1Gmn2cAr28ULCxNW0pqEH2ChUftDJjPbHRqnSYV",
+    "access_token": "1594664613144051714-d30ad06yeq28c2QREuNenrZYh5w4o1",
+    "access_secret": "cMYSfcGago9o7PP7AJ0uOlFsL09sztKud3JSgOqtyBpSr"
+}
